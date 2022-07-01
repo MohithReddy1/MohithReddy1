@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, DSA**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MohithReddy1](https://github.com/MohithReddy1)
+- 👨‍💻 All of my projects are available at [Click Here](https://github.com/MohithReddy1](https://github.com/MohithReddy1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
