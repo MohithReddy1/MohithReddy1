@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohithreddy1&label=Profile%20views&color=0e75b6&style=flat" alt="mohithreddy1" /> </p>
 
-- 🔭 I’m currently working on **Route Optimization for Bus Fleet**
+- 🔭 I’m currently working on **Route Optimization for Bus Fleet Project**
 
 - 🌱 I’m currently learning **React, DSA**
 
-- 👨‍💻 All of my projects are available at [Click Here](https://github.com/MohithReddy1](https://github.com/MohithReddy1)
+- 👨‍💻 All of my projects are available at [Click Here](https://github.com/MohithReddy1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
