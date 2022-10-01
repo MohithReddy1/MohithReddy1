@@ -29,4 +29,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohithreddy1&" alt="mohithreddy1" /></p>
 
 <h3 align="left">Badges</h3>
-[![@mohithreddy1's Holopin board](https://holopin.io/api/user/board?user=mohithreddy1)](https://holopin.io/@mohithreddy1)
+<img align="center" src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhlcTN6OWMwMzU3MDlsM2Z4OTluOHg2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" alt="holopinbadge"  width="200"/>
