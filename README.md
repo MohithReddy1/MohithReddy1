@@ -27,3 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohithreddy1&show_icons=true&locale=en" alt="mohithreddy1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohithreddy1&" alt="mohithreddy1" /></p>
+
+<h3 align="left">Badges</h3>
+[![@mohithreddy1's Holopin board](https://holopin.io/api/user/board?user=mohithreddy1)](https://holopin.io/@mohithreddy1)
