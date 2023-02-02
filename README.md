@@ -32,4 +32,6 @@
 <!-- <img align="center" src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhlcTN6OWMwMzU3MDlsM2Z4OTluOHg2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" alt="holopinbadge"  width="200"/> -->
 
 [![@mohithreddy1's Holopin board](https://holopin.me/mohithreddy1)](https://holopin.io/@mohithreddy1)
+
+<h3 align="left">Hacktoberfest 2022 badge!</h3>
 <img src = "https://res.cloudinary.com/practicaldev/image/fetch/s--rX-dH2o3--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/206/ht-badge.png" />
