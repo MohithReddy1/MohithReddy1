@@ -28,6 +28,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohithreddy1&" alt="mohithreddy1" /></p>
 
+<h3 align="left">AWS Academy Graduate - AWS Academy Data Engineering Badge</h3>
+
+![AWS Academy Graduate - AWS Academy Data Engineering](https://github.com/MohithReddy1/MohithReddy1/assets/65151565/8d38c3c6-a234-436a-927b-0bba23a73546)
+
 <h3 align="left">Badges</h3>
 <!-- <img align="center" src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhlcTN6OWMwMzU3MDlsM2Z4OTluOHg2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" alt="holopinbadge"  width="200"/> -->
 
