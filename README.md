@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohith-reddy-vuyyuru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohith-reddy-vuyyuru" height="30" width="40" /></a>
-<a href="https://instagram.com/mohith_vuyyuru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohith_vuyyuru" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/mohith_vuyyuru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohith_vuyyuru" height="30" width="40" /></a> -->
 <a href="https://kaggle.com/vuyyurumohithreddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vuyyurumohithreddy" height="30" width="40" /></a>
 <!-- <a href="https://twitter.com/mohithr14029417" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohithr14029417" height="30" width="40" /></a>
 <a href="https://fb.com/mohith.reddy.90663894" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohith.reddy.90663894" height="30" width="40" /></a>
